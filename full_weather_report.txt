@@ -1,0 +1,11 @@
+Weather for Hawaii
+
+- Location: Bradshaw Army Air Field / Hawaii, HI
+- Weather: Partly Cloudy
+- Humidity: 86
+- Temperature: 49.0
+- Wind:
+    - Direction: East
+    - Speed (MPH): 8.1
+    - Speed (KT): 7
+ - Observation: Last Updated on Feb 13 2023, 6:55 pm HST
